@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C, Python and Java languages
 - 📫 How to reach me: marcomacedo018@gmail.com
 
 <picture>
