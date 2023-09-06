@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, Python and Java languages
 - 📫 How to reach me: marcomacedo018@gmail.com
 
-<picture>
+<!-- <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=tuliomarco&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -15,7 +15,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=tuliomarco&show_icons=true" />
 </picture>
-
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco-Tulio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
